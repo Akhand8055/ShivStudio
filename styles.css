@@ -177,15 +177,19 @@ nav {
 }
 
 .portfolio__card:nth-child(1)::after {
-  content: "Portraits";
+  content: "Birthday";
 }
 
 .portfolio__card:nth-child(2)::after {
-  content: "Weddings";
+  content: "Wedding";
 }
 
 .portfolio__card:nth-child(3)::after {
-  content: "Fashions";
+  content: "Anniversary";
+}
+
+.portfolio__card:nth-child(4)::after {
+  content: "Engagement";
 }
 
 .portfolio__content {
