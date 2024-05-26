@@ -94,19 +94,19 @@ body {
   }
   37.5%
   {
-      background-image: url(Photos/image-2.jpg);
+      background-image: url(Photos/image-3.jpg);
   }
   62.5%
   {
-      background-image: url(Photos/image-2.jpg);
+      background-image: url(Photos/image-3.jpg);
   }
   75%
   {
-      background-image: url(Photos/image-3.jpg);
+      background-image: url(Photos/image-2.jpg);
   }
   100%
   {
-      background-image: url(Photos/image-3.jpg);
+      background-image: url(Photos/image-2.jpg);
   }
 }
 
