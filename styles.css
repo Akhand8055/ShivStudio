@@ -86,27 +86,35 @@ body {
 @keyframes change{
   0%
   {
-      background-image: url(Photos/image-2.jpg);
+      background-image: url(Photos/image-1.jpg);
   }
-  25%
-  {
-      background-image: url(Photos/image-2.jpg);
-  }
-  37.5%
-  {
-      background-image: url(Photos/image-3.jpg);
-  }
-  62.5%
-  {
-      background-image: url(Photos/image-3.jpg);
-  }
-  75%
+  18%
   {
       background-image: url(Photos/image-1.jpg);
+  }
+  27%
+  {
+      background-image: url(Photos/image-2.jpg);
+  }
+  45%
+  {
+      background-image: url(Photos/image-2.jpg);
+  }
+  54%
+  {
+      background-image: url(Photos/image-3.jpg);
+  }
+  72%
+  {
+      background-image: url(Photos/image-3.jpg);
+  }
+  81%
+  {
+      background-image: url(Photos/image-4.jpg);
   }
   100%
   {
-      background-image: url(Photos/image-1.jpg);
+      background-image: url(Photos/image-4.jpg);
   }
 }
 
