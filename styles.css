@@ -76,7 +76,7 @@ body {
 .header {
   min-height: 600px;
   background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9)),
-    url("Photos/image-1.jpg");
+    url("https://ik.imagekit.io/apm2002/Photos/image-1.jpg?updatedAt=1723875062112");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -86,35 +86,35 @@ body {
 @keyframes change{
   0%
   {
-      background-image: url(Photos/image-1.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-1.jpg?updatedAt=1723875062112);
   }
   18%
   {
-      background-image: url(Photos/image-1.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-1.jpg?updatedAt=1723875062112);
   }
   27%
   {
-      background-image: url(Photos/image-2.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-2.jpg?updatedAt=1723875062175);
   }
   45%
   {
-      background-image: url(Photos/image-2.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-2.jpg?updatedAt=1723875062175);
   }
   54%
   {
-      background-image: url(Photos/image-3.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-3.jpg?updatedAt=1723875061869);
   }
   72%
   {
-      background-image: url(Photos/image-3.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-3.jpg?updatedAt=1723875061869);
   }
   81%
   {
-      background-image: url(Photos/image-4.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-4.jpg?updatedAt=1723875061761);
   }
   100%
   {
-      background-image: url(Photos/image-4.jpg);
+      background-image: url(https://ik.imagekit.io/apm2002/Photos/image-4.jpg?updatedAt=1723875061761);
   }
 }
 
@@ -254,7 +254,7 @@ nav {
 
 .service {
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url("Photos/service.jpg");
+    url("https://ik.imagekit.io/apm2002/Photos/service.jpg?updatedAt=1723875061090");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -367,7 +367,7 @@ nav {
 
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("Photos/blog.jpg");
+    url("https://ik.imagekit.io/apm2002/Photos/blog.jpg?updatedAt=1723875060816");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
